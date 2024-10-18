@@ -1,5 +1,7 @@
-# Full-stack Mobile Developer / Blockchain Aspirant
-Hello, my name is Chase Allison, I am currently a Full-stack Mobile Developer specializing in React Native/JavaScript. Recently, I have started exploring blockchain technologies and have begun working on some related projects.
+# Full-stack Mobile Developer :iphone: / Blockchain Aspirant :crab:
+Hello, my name is Chase Allison, I am currently a Full-stack Mobile Developer specializing in React Native/JavaScript. 
+
+Recently, I have started exploring blockchain technologies and have begun working on some related projects.
 
 ## Skills
 * React Native 
@@ -12,13 +14,14 @@ Hello, my name is Chase Allison, I am currently a Full-stack Mobile Developer sp
 * UNIX System Analyst (06.2022-08.2022)
 
 ## Links
-### View my LinkedIn and connect with me!
+### Connect with me on LinkedIn :handshake:
 [LinkedIn](https://www.linkedin.com/in/chase-allison-itm/)
 
-###  Website
-:construction_worker_man: Under Construction :construction_worker_woman:
+###  View my website :globe_with_meridians:
+:construction_worker_man: :construction: :construction_worker_woman:
 
-### [📥 Download My Resume (PDF)](./Chase Allison - Resume)
+### Download My Resume 📥
+[Chase Allison - Resume](https://github.com/ChickenChunk/ChickenChunk/blob/main/Chase%20Allison%20-%20Resume.pdf)
 
 <!--
 **ChickenChunk/ChickenChunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
