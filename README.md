@@ -1,4 +1,4 @@
-# Full-stack Mobile Developer :iphone: / Blockchain Aspirant :crab:
+# Full-stack Mobile Developer
 Hello, my name is Chase Allison, I am currently a co-founder building a startup in React. 
 
 ## Skills
