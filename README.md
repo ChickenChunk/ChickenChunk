@@ -7,7 +7,7 @@ Hello, my name is Chase Allison, I am currently a co-founder building a startup 
 * Mobile Development
 
 ## Experience
-* Technical Co-founder (10.2024-Present)
+* Technical Co-founder (01.2025-Present)
 * Technical Applications Engineer (09.2024-04.2025)
 * UNIX System Analyst (06.2022-08.2022)
 
