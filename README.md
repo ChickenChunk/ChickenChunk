@@ -1,10 +1,9 @@
-# Full-stack Mobile Developer
+# Full-stack Developer
 Hello, my name is Chase Allison, I am currently a co-founder building a startup in React. 
 
 ## Skills
 * React Native/ React 
 * Typescript
-* Mobile Development
 
 ## Experience
 * Technical Co-founder (01.2025-Present)
