@@ -1,13 +1,13 @@
 ![Your GitHub Contributions](https://ghchart.rshah.org/ChickenChunk)
 # Full-stack Developer
-Hello, my name is Chase Allison, I am currently a co-founder building a startup in React. 
+Hello, my name is Chase Allison, I am currently a Freelance Full-Stack Engineer helping build a project in React. 
 
 ## Skills
 * React Native/ React 
 * Typescript
 
 ## Experience
-* Technical Co-founder (01.2025-Present)
+* Freelance Full-Stack Engineer (01.2025-Present)
 * Technical Applications Engineer (09.2024-04.2025)
 * UNIX System Analyst (06.2022-08.2022)
 
