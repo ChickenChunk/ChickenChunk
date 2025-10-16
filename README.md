@@ -10,7 +10,7 @@ Hello, my name is Chase Allison, I am currently a Freelance Full-Stack Engineer 
 ## Experience
 * Freelance Full-Stack Engineer (01.2025-Present)
 * Technical Applications Engineer (08.2024-04.2025)
-* UNIX System Analyst Summer Intern (06.2022-08.2022)
+* UNIX System Analyst Summer Intern (05.2022-08.2022)
 
 ## Projects
 * IT Strategic Consultant (09.2023-05-2024)
@@ -21,6 +21,9 @@ Hello, my name is Chase Allison, I am currently a Freelance Full-Stack Engineer 
 
 ### Download My Resume 📥
 [Chase Allison - Resume](https://github.com/ChickenChunk/ChickenChunk/blob/main/Chase%20Allison%20-%20Resume.pdf)
+
+### [Website 🌐](https://happy-grass-0838a111e.1.azurestaticapps.net/)
+
 
 <!--
 **ChickenChunk/ChickenChunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
