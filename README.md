@@ -8,7 +8,7 @@ Hello, my name is Chase Allison, I am currently a Freelance Full-Stack Engineer 
 * SQL
 
 ## Experience
-* Freelance Full-Stack Engineer (01.2025-Present)
+* Freelance Full-Stack Engineer (04.2025-Present)
 * Technical Applications Engineer (08.2024-04.2025)
 * UNIX System Analyst Summer Intern (05.2022-08.2022)
 
